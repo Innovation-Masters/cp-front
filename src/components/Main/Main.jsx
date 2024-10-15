@@ -12,9 +12,9 @@ export default function Main() {
                 <CardProdutos desc="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur doloribus sit, unde similique sed, autem obcaecati sapiente praesentium, fuga optio ex deleniti quos voluptate placeat facilis iure ab assumenda magni?" img="../public/a1.jpg" nome="Batman: Ano Um" preco="98" />
             </section>
             <section className="row gap-4">
-                <CardProdutos desc="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur doloribus sit, unde similique sed, autem obcaecati sapiente praesentium, fuga optio ex deleniti quos voluptate placeat facilis iure ab assumenda magni?" img="../public/fpi.webp" nome="Liga da Justiça: Ponto de Ignição" preco="50" />
-                <CardProdutos desc="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur doloribus sit, unde similique sed, autem obcaecati sapiente praesentium, fuga optio ex deleniti quos voluptate placeat facilis iure ab assumenda magni?" img="../public/pm.webp" nome="Batman: A Piada Mortal" preco="40" />
-                <CardProdutos desc="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur doloribus sit, unde similique sed, autem obcaecati sapiente praesentium, fuga optio ex deleniti quos voluptate placeat facilis iure ab assumenda magni?" img="../public/a1.jpg" nome="Batman: Ano Um" preco="98" />
+                <CardProdutos desc="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur doloribus sit, unde similique sed, autem obcaecati sapiente praesentium, fuga optio ex deleniti quos voluptate placeat facilis iure ab assumenda magni?" img="../public/db.jpg" nome="Detetive Batman" preco="43" />
+                <CardProdutos desc="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur doloribus sit, unde similique sed, autem obcaecati sapiente praesentium, fuga optio ex deleniti quos voluptate placeat facilis iure ab assumenda magni?" img="../public/bqr.jpg" nome="O Batman que ri" preco="64" />
+                <CardProdutos desc="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur doloribus sit, unde similique sed, autem obcaecati sapiente praesentium, fuga optio ex deleniti quos voluptate placeat facilis iure ab assumenda magni?" img="../public/mef.jpg" nome="Batman: Morte em família" preco="104" />
             </section>
             <ListaViloes />
         </main>
