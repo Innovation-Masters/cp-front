@@ -1,6 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+import RedesSociais from './RedesSociais';
 
 export default function Header() {
   return (
@@ -14,6 +15,7 @@ export default function Header() {
             <Nav.Link href="#">Pricing</Nav.Link>
             <Nav.Link href="#">Patrocinadores</Nav.Link>
           </Nav>
+          <RedesSociais />
         </Container>
       </Navbar>
     </>
